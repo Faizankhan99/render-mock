@@ -24,6 +24,38 @@
     }
   ],
   "users": [],
-  "tweet": [],
-  "data": []
+  "data": [
+    {
+      "name": "Faizan khan",
+      "batch": "9659",
+      "location": "Gwalior",
+      "experience": "2",
+      "contact": "5948758850",
+      "id": 1
+    },
+    {
+      "name": "Abhishek sharma",
+      "batch": "3538",
+      "location": "Agra",
+      "experience": "1",
+      "contact": "858688978",
+      "id": 2
+    },
+    {
+      "name": "Ankur singh ",
+      "batch": "4254",
+      "location": "Bihar",
+      "experience": "2",
+      "contact": "9963322520",
+      "id": 3
+    },
+    {
+      "name": "Ayush singh A.k",
+      "batch": "5695",
+      "location": "Pune",
+      "experience": "3",
+      "contact": "5857575560",
+      "id": 4
+    }
+  ]
 }
